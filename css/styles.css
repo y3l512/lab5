@@ -129,6 +129,10 @@ b {
   font-size: 48px;
 }
 
+iframe {
+	border : 0px;
+}
+
 
 
 
